@@ -11,6 +11,15 @@ a x b = c
 The program asks you to enter 4 parameters.
 the first and second parameters are for 'a' in the above equation, and the third and fourth parameters are for 'b' in the equation.
 
+1st parameter - minimum value of 'a'
+
+2nd parameter - maximum value of 'a' 
+
+3rd parameter - minimum value of 'b'
+
+4th parameter - maximum value of 'b'
+
+
 Let me show you through an Example.
 
 If you want to remember the tables of 1 to 20, then
