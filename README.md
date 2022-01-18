@@ -30,6 +30,7 @@ Now the program will develop random numbers from these parameters(here, a=[1,20]
 for example, 
 
 16x4 = ?
+
 19x6 = ?
 
 No you have to give the values fast and it will check if your answers are right. If your answers are right, you will get a congratulatory message and if your answer is wrong then it will display the correct answer.
