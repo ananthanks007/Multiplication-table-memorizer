@@ -1,6 +1,6 @@
 # Multiplication-table-memorizer
 
-Multiplication-table-memorizer is a simple python program to memorize the multiplication table. Every student needs this simple to use python program which gives you random questions from your desired parameters and forces you to answer questions qucikly thus improving your memory. As a student myself, it is important to remebers the multiplication table upto 20. And this tool will help your remember it
+Multiplication-table-memorizer is a simple python program to memorize the multiplication table. Every student needs this simple to use python program which gives you random questions from your desired parameters and forces you to answer questions qucikly thus improving your memory. As a student myself, it is important to remember the multiplication table upto 20. And this tool will help your remember it.
 
 #How to use?
 
